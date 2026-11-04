@@ -16,9 +16,9 @@ public class ItemTest {
 
     @Test
     public void hasNameIgnoresCase() {
-        Item item = new Item("Vase", "a nice vase", 3);
-        assertTrue(item.hasName("vase"));
-        assertTrue(item.hasName("VASE"));
+        Item item = new Item("Bread", "a loaf of bread", 1);
+        assertTrue(item.hasName("bread"));
+        assertTrue(item.hasName("BREAD"));
     }
 
     @Test
