@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module version="4">
+  <component name="AdditionalModuleElements">
+    <content url="file://$MODULE_DIR$" dumb="true">
+      <sourceFolder url="file://$MODULE_DIR$/src/Test/java" isTestSource="true" />
+    </content>
+  </component>
   <component name="EclipseModuleManager">
     <conelement value="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER" />
     <src_description expected_position="0">
