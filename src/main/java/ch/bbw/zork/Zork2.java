@@ -1,8 +1,8 @@
 package ch.bbw.zork;
 
 
-/** where to start the game
- *
+/**
+ * where to start the game
  */
 
 
